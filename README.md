@@ -46,7 +46,9 @@
 
 ## Parsing based or Graph based
 
-- DAE (Goyal and Durrett, 2020)
+- **Evaluating Factuality in Generation with Dependency-level Entailment** *Tanya Goyal, Greg Durrett* `EMNLP 2020`
+
+
 - **FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations** *Leonardo F. R. Ribeiro, Mengwen Liu, Iryna Gurevych, Markus Dreyer, Mohit Bansal* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.236/) [[code]](https://github.com/amazon-research/fact-graph)
 
 ## Topic-controllable
