@@ -21,6 +21,8 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 - **Q2: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering** *Or Honovich, Leshem Choshen, Roee Aharoni, Ella Neeman, Idan Szpektor, Omri Abend* `EMNLP 2021`
 - **QuestEval: Summarization Asks for Fact-based Evaluation** *Thomas Scialom, Paul-Alexis Dray, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano, Alex Wang, Patrick Gallinari* `EMNLP 2021`
 - **QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization** *Alexander R. Fabbri, Chien-Sheng Wu, Wenhao Liu, Caiming Xiong* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.187/) [[code]](https://github.com/salesforce/QAFactEval) 
+- **Answers Unite! Unsupervised Metrics for Reinforced Summarization Models** *Thomas Scialom, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano* `EMNLP 2019`
+
 
 
 
@@ -61,6 +63,12 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 
 
 - **FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations** *Leonardo F. R. Ribeiro, Mengwen Liu, Iryna Gurevych, Markus Dreyer, Mohit Bansal* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.236/) [[code]](https://github.com/amazon-research/fact-graph)
+
+## based on word embeddings
+
+- **Sentence Mover’s Similarity: Automatic Evaluation for Multi-Sentence Texts** *Elizabeth Clark, Asli Celikyilmaz, Noah A. Smith* `ACL 2019`
+
+
 
 ## Topic-controllable
 
