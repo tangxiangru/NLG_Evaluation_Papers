@@ -53,7 +53,7 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 ## NLI based
 
 - **SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization** *Philippe Laban, Tobias Schnabel, Paul N. Bennett, Marti A. Hearst* `TACL 2021`
-
+- **Evaluating the Factual Consistency of Abstractive Text Summarization** *Wojciech Kryściński, Bryan McCann, Caiming Xiong, Richard Socher* `EMNLP20` [[pdf]](https://arxiv.org/abs/1910.12840) [[code]](https://github.com/salesforce/factCC)
 
 ## Parsing based or Graph based
 
