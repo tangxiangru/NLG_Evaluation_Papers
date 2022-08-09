@@ -31,13 +31,8 @@
 ### BERT based
 
 - **BLEURT: Learning Robust Metrics for Text Generation** *Thibault Sellam, Dipanjan Das, Ankur Parikh* `ACL 2020`
-- BERTScore (2019)
-- PONE (2020)
-- MAUDE (2020)
-- DEB (2020) 
-- GRADE (2020) 
-- HolisticEval (2020)
-- PredictiveEngage (2020)
+- **BERTScore: Evaluating Text Generation with BERT** *Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger, Yoav Artzi* `ICLR 2020`
+- **MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance** *Wei Zhao, Maxime Peyrard, Fei Liu, Yang Gao, Christian M. Meyer, Steffen* `EMNLP 2019`
 
 ### BART based
 
