@@ -3,6 +3,8 @@
 
 ## QA based
 
+- **A Semantic QA-Based Approach for Text Summarization Evaluation** *Ping Chen, Fei Wu, Tong Wang, Wei Ding* `AAAI18` [[pdf]](https://arxiv.org/abs/1704.06259) 
+- **Answers Unite! Unsupervised Metrics for Reinforced Summarization Models** *Thomas Scialom, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano* `EMNLP19` [[pdf]](https://arxiv.org/abs/1909.01610)
 - **Question answering as an automatic evaluation metric for news article summarization** *Matan Eyal, Tal Baumel, and Michael Elhadad* `NAACL 2019`
 - **FEQA: A question answering evaluation framework for faithfulness assessment in abstractive summarization** *Esin Durmus, He He, and Mona Diab* `ACL 2020`
 - **Asking and answering questions to evaluate the factual consistency of summaries** *Alex Wang, Kyunghyun Cho, and Mike Lewis* `ACL 2020`
