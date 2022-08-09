@@ -46,6 +46,8 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 - **BLEURT: Learning Robust Metrics for Text Generation** *Thibault Sellam, Dipanjan Das, Ankur Parikh* `ACL 2020`
 - **BERTScore: Evaluating Text Generation with BERT** *Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger, Yoav Artzi* `ICLR 2020`
 - **MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance** *Wei Zhao, Maxime Peyrard, Fei Liu, Yang Gao, Christian M. Meyer, Steffen* `EMNLP 2019`
+- **Fill in the BLANC: Human-free quality estimation of document summaries** *Oleg Vasilyev, Vedant Dharnidharka, John Bohannon*
+
 
 ### BART based
 
