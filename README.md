@@ -9,7 +9,7 @@
 - **Safeval: Summarization asks for fact-based evaluation** *Thomas Scialom, Paul-Alexis Dray, Gallinari Patrick, Lamprier Sylvain, Piwowarski Benjamin, Staiano Jacopo, and Wang Alex* `EMNLP 2021`
 - **Q2: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering** *Or Honovich, Leshem Choshen, Roee Aharoni, Ella Neeman, Idan Szpektor, Omri Abend* `EMNLP 2021`
 - **QuestEval: Summarization Asks for Fact-based Evaluation** *Thomas Scialom, Paul-Alexis Dray, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano, Alex Wang, Patrick Gallinari* `EMNLP 2021`
-
+- **QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization** *Alexander R. Fabbri, Chien-Sheng Wu, Wenhao Liu, Caiming Xiong* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.187/) [[code]](https://github.com/salesforce/QAFactEval) 
 
 
 
