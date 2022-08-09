@@ -1,4 +1,13 @@
-# NLG_Evaluation_Papers
+<p align="center">
+<h1 align="center"> <img src="[https://github.com/xcfcode/Summarization-Papers/pic/summary.png](https://github.com/xcfcode/Summarization-Papers/blob/main/pic/summary.png)" width="30" />Papers of NLG Evaluation
+</h1>
+</p>
+with a focus of summarization and factual consistency.
+
+
+## Contributor
+Organized by [Robert Tang](https://xiangrutang.github.io/).
+
 
 
 ## QA based
