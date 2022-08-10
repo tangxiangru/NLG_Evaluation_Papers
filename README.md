@@ -100,6 +100,8 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 - **Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning** *Hanlu Wu, Tengfei Ma, Lingfei Wu, Tariro Manyumwa, Shouling Ji* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.01781) [[code]](https://github.com/whl97/LS-Score)
 - **A Training-free and Reference-free Summarization Evaluation Metric via Centrality-weighted Relevance and Self-referenced Redundancy** *Wang Chen, Piji Li, Irwin King* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.34/) [[code]](https://github.com/Chen-Wang-CUHK/Training-Free-and-Ref-Free-Summ-Evaluation)
 - **Reference-free Summarization Evaluation via Semantic Correlation and Compression Ratio** *Yizhu Liu, Qi Jia, Kenny Zhu* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.153/) [[code]](https://github.com/YizhuLiu/summeval) 
+- **MaskEval: Weighted MLM-Based Evaluation for Text Summarization and Simplification** *Yu Lu Liu, Rachel Bawden, Thomas Scaliom, Benoît Sagot, Jackie Chi Kit Cheung*
+
 
 ## Manual Evaluation
 
