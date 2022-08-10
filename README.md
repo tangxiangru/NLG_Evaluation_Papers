@@ -86,8 +86,9 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 - **FFCI: A Framework for Interpretable Automatic Evaluation of Summarization** *Fajri Koto, Jey Han Lau, Timothy Baldwin* [[pdf]](https://arxiv.org/abs/2011.13662) [[code]](https://github.com/fajri91/ffci) ![](https://img.shields.io/badge/-evaluation-brightgreen)
 - **TRUE: Re-evaluating Factual Consistency Evaluation** `NAACL 2022` [[pdf]](https://arxiv.org/abs/2204.04991)
 - **DialSummEval: Revisiting Summarization Evaluation for Dialogues** *Mingqi Gao, Xiaojun Wan* `NAACL 2022`
-
-
+- **Ranking Generated Summaries by Correctness: An Interesting but Challenging Application for Natural Language Inference** *Tobias Falke, Leonardo F. R. Ribeiro, Prasetya Ajie Utama, Ido Dagan, Iryna Gurevych* `ACL19` [[pdf]](https://www.aclweb.org/anthology/P19-1213/) [[data]](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/2002) 
+- **On faithfulness and factuality in abstractive summarization** *Joshua Maynez, Shashi Narayan, Bernd Bohnet, and Ryan McDonald*
+- **What Have We Achieved on Text Summarization?** *Dandan Huang, Leyang Cui, Sen Yang, Guangsheng Bao, Kun Wang, Jun Xie, Yue Zhang* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.04529) 
 
 
 
