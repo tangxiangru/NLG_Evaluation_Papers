@@ -60,21 +60,23 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 - **Evaluating the Factual Consistency of Abstractive Text Summarization** *Wojciech Kryściński, Bryan McCann, Caiming Xiong, Richard Socher* `EMNLP20` [[pdf]](https://arxiv.org/abs/1910.12840) [[code]](https://github.com/salesforce/factCC)
 - **DAE: Annotating and Modeling Fine-grained Factuality in Summarization** *Tanya Goyal, Greg Durrett* `NAACL 2021`
 
-
-## Parsing based or Graph based
+## Others 
+### Parsing based or Graph based
 
 - **Evaluating Factuality in Generation with Dependency-level Entailment** *Tanya Goyal, Greg Durrett* `EMNLP 2020`
 
 
 - **FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations** *Leonardo F. R. Ribeiro, Mengwen Liu, Iryna Gurevych, Markus Dreyer, Mohit Bansal* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.236/) [[code]](https://github.com/amazon-research/fact-graph)
 
-## based on word embeddings
+### Word embeddings based 
 
 - **Sentence Mover’s Similarity: Automatic Evaluation for Multi-Sentence Texts** *Elizabeth Clark, Asli Celikyilmaz, Noah A. Smith* `ACL 2019`
 
+### Counterfactual based
+- **Factual Consistency Evaluation for Text Summarization via Counterfactual Estimation** *Yuexiang Xie, Fei Sun, Yang Deng, Yaliang Li, Bolin Ding* `EMNLP 2021 Findings` [[pdf]](https://arxiv.org/abs/2108.13134) [[code]](https://github.com/xieyxclack/factual_coco)
 
 
-## Topic-controllable
+### Topic-controllable
 
 **Topic-Aware Evaluation and Transformer Methods for Topic-Controllable Summarization** *Tatiana Passali, Grigorios Tsoumakas* `` [[pdf]](https://arxiv.org/abs/2206.04317) 
 
