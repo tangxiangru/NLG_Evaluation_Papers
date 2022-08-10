@@ -90,6 +90,7 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 - **On faithfulness and factuality in abstractive summarization** *Joshua Maynez, Shashi Narayan, Bernd Bohnet, and Ryan McDonald*
 - **What Have We Achieved on Text Summarization?** *Dandan Huang, Leyang Cui, Sen Yang, Guangsheng Bao, Kun Wang, Jun Xie, Yue Zhang* `EMNLP20` [[pdf]](https://arxiv.org/abs/2010.04529) 
 - **Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics** *Artidoro Pagnoni, Vidhisha Balachandran and Yulia Tsvetkov* `NAACL21` [[pdf]](https://arxiv.org/abs/2104.13346) [[code]](https://github.com/artidoro/frank) 
+- **Asking and answering questions to evaluate the factual consistency of summaries** *Alex Wang, Kyunghyun Cho, and Mike Lewis* `ACL 2020`
 
 
 
