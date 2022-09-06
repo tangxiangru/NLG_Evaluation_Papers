@@ -89,6 +89,13 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 
 **Topic-Aware Evaluation and Transformer Methods for Topic-Controllable Summarization** *Tatiana Passali, Grigorios Tsoumakas* `` [[pdf]](https://arxiv.org/abs/2206.04317) 
 
+## Augmenting
+
+- **Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization** *Prasetya Ajie Utama, Joshua Bambrick, Nafise Sadat Moosavi, Iryna Gurevych* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.199/) [[code]](https://github.com/joshbambrick/Falsesum) <details> <summary>[Abs]</summary> Neural abstractive summarization models are prone to generate summaries that are factually inconsistent with their source documents. Previous work has introduced the task of recognizing such factual inconsistency as a downstream application of natural language inference (NLI). However, state-of-the-art NLI models perform poorly in this context due to their inability to generalize to the target task. In this work, we show that NLI models can be effective for this task when the training data is augmented with high-quality task-oriented examples. We introduce Falsesum, a data generation pipeline leveraging a controllable text generation model to perturb human-annotated summaries, introducing varying types of factual inconsistencies. Unlike previously introduced document-level NLI datasets, our generated dataset contains examples that are diverse and inconsistent yet plausible. We show that models trained on a Falsesum-augmented NLI dataset improve the state-of-the-art performance across four benchmarks for detecting factual inconsistency in summarization. </details>
+
+- **Gradient-Based Adversarial Factual Consistency Evaluation for Abstractive Summarization** *Zhiyuan Zeng, Jiaze Chen, Weiran Xu, Lei Li* `EMNLP 2021`
+
+
 
 
 ## Meta-evaluation
