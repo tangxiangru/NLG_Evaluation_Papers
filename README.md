@@ -12,6 +12,7 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 ## Survey
 
 - **Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text** *Sebastian Gehrmann, Elizabeth Clark, Thibault Sellam* [[pdf]](https://arxiv.org/pdf/2202.06935.pdf)
+- **Understanding Factual Errors in Summarization: Errors, Summarizers, Datasets, Error Detectors** *Liyan Tang, Tanya Goyal, Alexander R. Fabbri, Philippe Laban, Jiacheng Xu, Semih Yahvuz, Wojciech Kryściński, Justin F. Rousseau, Greg Durrett* [[pdf]](https://arxiv.org/abs/2205.12854) [[code]](https://github.com/Liyan06/AggreFact)
 
 
 
@@ -53,6 +54,8 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 - **BERTScore: Evaluating Text Generation with BERT** *Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger, Yoav Artzi* `ICLR 2020`
 - **MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance** *Wei Zhao, Maxime Peyrard, Fei Liu, Yang Gao, Christian M. Meyer, Steffen* `EMNLP 2019`
 - **Fill in the BLANC: Human-free quality estimation of document summaries** *Oleg Vasilyev, Vedant Dharnidharka, John Bohannon*
+- **BERTFaith: Focus Attention: Promoting Faithfulness and Diversity in Summarization** *Rahul Aralikatte, Shashi Narayan, Joshua Maynez, Sascha Rothe, Ryan McDonald* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.474/) 
+
 
 
 ### BART based
