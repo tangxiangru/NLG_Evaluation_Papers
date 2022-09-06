@@ -9,6 +9,12 @@ with a focus of summarization and factual consistency.
 Organized by [Robert Tang](https://xiangrutang.github.io/).
 
 
+## Survey
+
+- **Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text** *Sebastian Gehrmann, Elizabeth Clark, Thibault Sellam* [[pdf]](https://arxiv.org/pdf/2202.06935.pdf)
+
+
+
 
 ## QA based
 
