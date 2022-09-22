@@ -13,7 +13,7 @@ Organized by [Robert Tang](https://xiangrutang.github.io/).
 
 - **Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text** *Sebastian Gehrmann, Elizabeth Clark, Thibault Sellam* [[pdf]](https://arxiv.org/pdf/2202.06935.pdf)
 - **Understanding Factual Errors in Summarization: Errors, Summarizers, Datasets, Error Detectors** *Liyan Tang, Tanya Goyal, Alexander R. Fabbri, Philippe Laban, Jiacheng Xu, Semih Yahvuz, Wojciech Kryściński, Justin F. Rousseau, Greg Durrett* [[pdf]](https://arxiv.org/abs/2205.12854) [[code]](https://github.com/Liyan06/AggreFact)
-
+- **Faithfulness in Natural Language Generation: A Systematic Survey of Analysis, Evaluation and Optimization Methods** *Wei Li, Wenhao Wu, Moye Chen, Jiachen Liu, Xinyan Xiao and Hua Wu* [[pdf]](https://arxiv.org/pdf/2203.05227.pdf)
 
 
 
